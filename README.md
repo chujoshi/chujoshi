@@ -54,6 +54,8 @@ Currently uploading useless junk on <a href="https://github.com/chujoshi/blog"> 
 	<img src="https://user-images.githubusercontent.com/114668535/226994305-385d5b89-f42c-4710-bca7-2f622d3f7204.gif" height="180"/>
 	<img src="https://user-images.githubusercontent.com/114668535/226994347-a87fbe06-ca2d-4195-8648-1af7ce5b34e9.gif" height="180"/>
 	<img src="https://user-images.githubusercontent.com/114668535/226994422-a940afe2-654c-4d19-b6f9-b009931d8c92.gif" height="180"/>
+	<img src="https://user-images.githubusercontent.com/114668535/230187530-3a27a983-10de-49f2-90d5-e02c32b7e39a.gif" height="180"/>
+
 </div>
 
 
@@ -67,6 +69,8 @@ Currently uploading useless junk on <a href="https://github.com/chujoshi/blog"> 
 	<img src="https://user-images.githubusercontent.com/114668535/226982113-6a70556d-737b-423c-bb41-fd3591a8b17a.jpg" height="160"/>
 	<img src="https://user-images.githubusercontent.com/114668535/226983420-0b309ba3-bc6d-41ec-8022-3a5e9c4acab2.png" height="160"/>
 	<img src="https://user-images.githubusercontent.com/114668535/226983491-479add58-de25-44e6-b2d2-e240086fb905.png" height="160"/>
+	<img src="https://user-images.githubusercontent.com/114668535/230189554-19cc3b70-df4d-4a31-baaa-85f0e6738916.png" height="160"/>
+
 </div>
 
 
